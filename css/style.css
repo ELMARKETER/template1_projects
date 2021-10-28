@@ -1,0 +1,18 @@
+/*    how to write comment   */ 
+/*how to write syntax*/
+/*المكتوب قبل الاقواس اسمه selector*/
+/*
+selector{
+property:value
+
+}
+*/
+/*background*/
+
+body{height: 5000px;
+    background-image: url(../images/image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+
+    background-position: center;
+}
